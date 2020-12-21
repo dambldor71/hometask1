@@ -2,3 +2,11 @@
 boots_buttons, которая и "содержит" в себе ветку demo. Также ветка master содержит в себе удаленную ветку hat.
 Странно, вижу только коммит про изменения в ветке master. Также при нажатии по кнопке share project on github создался
 новый репрезиторий, хотя задание 1(boots_buttons) в другом репрезитории.
+Вижу 11 коммитов: 6 коммитов от создателя коренного репозитория MobDev-Hobby.
+                  5 коммитов, сделанных мною:
+                  1.Merge branch 'boots' into boots_buttons
+                  2.Merge branch 'buttons' into boots_buttons
+                  3.Merge remote-tracking branch 'origin/hat'
+                  4.Merge branch 'boots_buttons'
+                  5.2 пункт файл(создание и коммит текстового файла, а значит сейчас произойдет ещё один коммит данного
+                    написания).
